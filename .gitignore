@@ -1,0 +1,18 @@
+# 빌드 결과 및 임시 폴더
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio 사용자별 설정 및 캐시
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# 프로젝트 관리 및 NuGet
+*.dll
+*.exe
+*.pdb
+*.nupkg
+packages/
